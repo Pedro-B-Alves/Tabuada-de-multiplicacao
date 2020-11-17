@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tabuada-de-multiplicacao/1.0.0": {
+        "runtime": {
+          "Tabuada-de-multiplicacao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tabuada-de-multiplicacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

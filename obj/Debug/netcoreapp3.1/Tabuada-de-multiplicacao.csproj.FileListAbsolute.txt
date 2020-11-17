@@ -1,0 +1,13 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Tabuada-de-multiplicacao\bin\Debug\netcoreapp3.1\Tabuada-de-multiplicacao.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Tabuada-de-multiplicacao\bin\Debug\netcoreapp3.1\Tabuada-de-multiplicacao.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Tabuada-de-multiplicacao\bin\Debug\netcoreapp3.1\Tabuada-de-multiplicacao.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Tabuada-de-multiplicacao\bin\Debug\netcoreapp3.1\Tabuada-de-multiplicacao.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Tabuada-de-multiplicacao\bin\Debug\netcoreapp3.1\Tabuada-de-multiplicacao.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Tabuada-de-multiplicacao\bin\Debug\netcoreapp3.1\Tabuada-de-multiplicacao.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Tabuada-de-multiplicacao\obj\Debug\netcoreapp3.1\Tabuada-de-multiplicacao.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Tabuada-de-multiplicacao\obj\Debug\netcoreapp3.1\Tabuada-de-multiplicacao.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Tabuada-de-multiplicacao\obj\Debug\netcoreapp3.1\Tabuada-de-multiplicacao.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Tabuada-de-multiplicacao\obj\Debug\netcoreapp3.1\Tabuada-de-multiplicacao.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Tabuada-de-multiplicacao\obj\Debug\netcoreapp3.1\Tabuada-de-multiplicacao.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Tabuada-de-multiplicacao\obj\Debug\netcoreapp3.1\Tabuada-de-multiplicacao.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Tabuada-de-multiplicacao\obj\Debug\netcoreapp3.1\Tabuada-de-multiplicacao.genruntimeconfig.cache
